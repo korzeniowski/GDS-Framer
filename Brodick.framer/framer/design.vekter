@@ -234,7 +234,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Other<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Other<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -396,7 +396,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">12<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">12<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -592,7 +592,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">General switches<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">General switches<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -754,7 +754,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">78<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">78<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -950,7 +950,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Consolidation<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Consolidation<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -1112,7 +1112,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">56<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">56<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -1308,7 +1308,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Group switches<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Group switches<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -1470,7 +1470,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">445<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">445<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -1666,7 +1666,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Move to self supply<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Move to self supply<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -1828,7 +1828,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">243<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">243<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -2024,7 +2024,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">M&amp;A<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">M&amp;A<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -2186,7 +2186,7 @@
                                 }
                               ],
                               "cached" : {
-                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Semibold&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">456<\/span><\/span>",
+                                "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:600;font-family:&quot;ProximaNova-Semibold&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">456<\/span><\/span>",
                                 "os" : "10_13",
                                 "size" : {
                                   "height" : 16,
@@ -2712,6 +2712,51 @@
                     "visible" : true,
                     "width" : 114,
                     "widthFactor" : null
+                  },
+                  {
+                    "__class" : "OvalShapeNode",
+                    "aspectRatioLocked" : true,
+                    "boxShadows" : [
+
+                    ],
+                    "exportOptions" : [
+
+                    ],
+                    "fillColor" : "#CCC",
+                    "fillEnabled" : true,
+                    "fillGradient" : {
+                      "__class" : "LinearGradient",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "end" : "rgba(0,0,0,0)",
+                      "start" : "black"
+                    },
+                    "fillImage" : null,
+                    "fillImagePixelHeight" : null,
+                    "fillImagePixelWidth" : null,
+                    "fillImageResize" : "fill",
+                    "fillType" : "color",
+                    "height" : 110,
+                    "id" : "zcyZWlEUW",
+                    "lineCap" : "butt",
+                    "lineJoin" : "miter",
+                    "locked" : false,
+                    "name" : null,
+                    "opacity" : 1,
+                    "parentid" : "BMJbD9GnT",
+                    "rotation" : 0,
+                    "strokeAlignment" : "center",
+                    "strokeColor" : "#0AF",
+                    "strokeDashArray" : "0",
+                    "strokeDashOffset" : 0,
+                    "strokeEnabled" : 0,
+                    "strokeMiterLimit" : 4,
+                    "strokeWidth" : 1,
+                    "targetName" : null,
+                    "visible" : true,
+                    "width" : 110,
+                    "x" : 529,
+                    "y" : 38
                   }
                 ],
                 "clip" : false,
@@ -2865,7 +2910,7 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, serif;-webkit-text-fill-color:#40515B;font-size:24px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Market Summary<\/span><\/span>",
+                    "html" : "<span data-offset-key=\"8493i-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;ProximaNova-Regular&quot;, &quot;Proxima Nova&quot;, serif;-webkit-text-fill-color:#40515B;font-size:24px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Market Summary<\/span><\/span>",
                     "os" : "10_13",
                     "size" : {
                       "height" : 28,
@@ -3325,9 +3370,7 @@
             "top" : 12,
             "visible" : true,
             "width" : 59,
-            "widthFactor" : null,
-            "x" : 158,
-            "y" : 501
+            "widthFactor" : null
           }
         ],
         "clip" : true,
