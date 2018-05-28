@@ -1,3 +1,5 @@
+{Symbol} = require "symbols/Symbol"
+InputModule = require "input-framer/input"
 # msummaryElementText1.states.a =
 # 	color: '#40515B'
 # 	
